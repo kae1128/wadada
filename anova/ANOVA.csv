@@ -1,0 +1,407 @@
+범위,설명,f,p-value
+전체,"is_risky, age",70.89773452,3.88E-17
+전체,"is_risky, duration",0.13597881,0.7123136834
+전체,"is_risky, is_franchise",22.38861882,0.0000022342
+전체,"is_risky, business_square_size",5.897178409,0.0151693749
+전체,"is_risky, monthly_rental_fee",0.1017202165,0.7497765951
+전체,"is_risky, regular_employees_count",24.38618392,7.91E-07
+전체,"is_risky, rental_deposit",0.3783462771,0.5384929809
+전체,"is_risky, sum_customer_cnt",310.8959405,2.54E-69
+전체,"is_risky, sum_new_customer_cnt",559.8344682,6.28E-123
+전체,"is_risky, sum_purchase_card",39.68665479,3.00E-10
+전체,"is_risky, sum_purchase_cash",2.119874122,0.1454060494
+전체,"is_risky, sum_purchase_invoice",20.2196058,0.0000069228
+전체,"is_risky, sum_sales_card",322.513662,7.68E-72
+전체,"is_risky, sum_sales_delivery",95.39440525,1.65E-22
+전체,"is_risky, sum_sales_invoice",2.377555055,0.123097674
+전체,"is_risky, sum_weekend_sales_card",418.7916432,1.28E-92
+전체,"is_risky, sum_weekend_sales_delivery",90.11585154,2.36E-21
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+서비스업,"is_risky, age",18.02110753,2.21E-05
+서비스업,"is_risky, duration",13.43214176,0.000248765
+서비스업,"is_risky, is_franchise",,
+서비스업,"is_risky, business_square_size",10.54781415,0.0011674974
+서비스업,"is_risky, monthly_rental_fee",11.40562554,0.0007353069
+서비스업,"is_risky, regular_employees_count",26.97943105,2.10E-07
+서비스업,"is_risky, rental_deposit",3.888998217,0.0486338222
+서비스업,"is_risky, sum_customer_cnt",14.36895668,1.51E-04
+서비스업,"is_risky, sum_new_customer_cnt",12.5285925,4.03E-04
+서비스업,"is_risky, sum_purchase_card",2.192005547,1.39E-01
+서비스업,"is_risky, sum_purchase_cash",0.1243968532,0.724322041
+서비스업,"is_risky, sum_purchase_invoice",4.525256037,0.0334250546
+서비스업,"is_risky, sum_sales_card",52.65785048,0
+서비스업,"is_risky, sum_sales_delivery",6.20E-09,0.9999371274
+서비스업,"is_risky, sum_sales_invoice",1.025423997,0.3112629517
+서비스업,"is_risky, sum_weekend_sales_card",61.94869604,0
+서비스업,"is_risky, sum_weekend_sales_delivery",4.98E-08,0.999821963
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+유통업,"is_risky, age",1.952788967,0.1623705056
+유통업,"is_risky, duration",0.0564745015,0.8121706691
+유통업,"is_risky, is_franchise",0.0454313163,0.8312246605
+유통업,"is_risky, business_square_size",1.56432405,0.2111123883
+유통업,"is_risky, monthly_rental_fee",3.80623688,0.0511375118
+유통업,"is_risky, regular_employees_count",1.019976235,0.3125907754
+유통업,"is_risky, rental_deposit",1.1727927,0.2788988025
+유통업,"is_risky, sum_customer_cnt",14.63901146,0.0001325034
+유통업,"is_risky, sum_new_customer_cnt",0.0493071139,0.8242856311
+유통업,"is_risky, sum_purchase_card",4.616160462,0.0317368388
+유통업,"is_risky, sum_purchase_cash",4.616160462,0.0317368388
+유통업,"is_risky, sum_purchase_invoice",1.707399133,0.1914044658
+유통업,"is_risky, sum_sales_card",12.15380585,0.0004955794
+유통업,"is_risky, sum_sales_delivery",4.968810752,0.0258682743
+유통업,"is_risky, sum_sales_invoice",6.26226808,0.0123764793
+유통업,"is_risky, sum_weekend_sales_card",2.365229749,0.124151247
+유통업,"is_risky, sum_weekend_sales_delivery",5.133623686,0.0235242933
+,,,
+,,,
+,,,
+외식업,"is_risky, age",54.14065457,0.00E+00
+외식업,"is_risky, duration",15.66001846,0.0000759916
+외식업,"is_risky, is_franchise",0.7050122495,0.4011115822
+외식업,"is_risky, business_square_size",24.08559667,9.27E-07
+외식업,"is_risky, monthly_rental_fee",0.0052532007,0.9422212463
+외식업,"is_risky, regular_employees_count",74.8250511,5.41E-18
+외식업,"is_risky, rental_deposit",0.4747194052,0.4908295453
+외식업,"is_risky, sum_customer_cnt",110.3071787,9.37E-26
+외식업,"is_risky, sum_new_customer_cnt",382.5344435,1.28E-84
+외식업,"is_risky, sum_purchase_card",34.41971793,4.50E-09
+외식업,"is_risky, sum_purchase_cash",0.1141135166,0.7355111548
+외식업,"is_risky, sum_purchase_invoice",18.24116171,0.000019525
+외식업,"is_risky, sum_sales_delivery",,
+외식업,"is_risky, sum_sales_card",1028.274264,1.02E-221
+외식업,"is_risky, sum_weekend_sales_card",678.7666117,6.43E-148
+외식업,"is_risky, sum_weekend_sales_delivery",3.78E+01,8.00E-10
+외식업,"(is_risky, sum_sales_invoice",0.8006691793,0.3709008478
+외식업,"is_risky, sum_sales_delivery",3.74E+01,1.00E-09
+,,,
+,,,
+,,,
+클러스터0(전체),"is_risky, age",8.003858088,0.004675848
+클러스터0(전체),"is_risky, duration",2.109519874,0.146412484
+클러스터0(전체),"is_risky, is_franchise",0.4813022464,0.4878470369
+클러스터0(전체),"is_risky, business_square_size",6.494638695,0.0108328935
+클러스터0(전체),"is_risky, monthly_rental_fee",9.157689158,0.002482221
+클러스터0(전체),"is_risky, regular_employees_count",38.19352126,7.00E-10
+클러스터0(전체),"is_risky, rental_deposit",0.6676172935,0.4139004652
+클러스터0(전체),"is_risky, sum_customer_cnt",221.2018622,1.47E-49
+클러스터0(전체),"is_risky, sum_new_customer_cnt",268.3988267,1.26E-59
+클러스터0(전체),"is_risky, sum_purchase_card",0.0680159396,0.7942524432
+클러스터0(전체),"is_risky, sum_purchase_cash",3.203775219,0.0734947613
+클러스터0(전체),"is_risky, sum_purchase_invoice",0.1820040637,0.6696645814
+클러스터0(전체),"is_risky, sum_sales_card",492.2096632,8.00E-107
+클러스터0(전체),"is_risky, sum_sales_delivery",27.29670851,1.78E-07
+클러스터0(전체),"is_risky, sum_sales_invoice",2.338615698,0.1262291243
+클러스터0(전체),"is_risky, sum_weekend_sales_card",401.0468521,1.01E-87
+클러스터0(전체),"is_risky, sum_weekend_sales_delivery",26.0472434,3.39E-07
+,,,
+,,,
+,,,
+,,,
+클러스터0(서비스업),"is_risky, age",19.04230184,0.0000135986
+클러스터0(서비스업),"is_risky, duration",17.23049401,0.0000348411
+클러스터0(서비스업),"is_risky, is_franchise",2.625352077,0.1053651265
+클러스터0(서비스업),"is_risky, business_square_size",3.062344448,0.0803165967
+클러스터0(서비스업),"is_risky, monthly_rental_fee",3.741910594,0.0532388694
+클러스터0(서비스업),"is_risky, regular_employees_count",22.42268324,0.0000023804
+클러스터0(서비스업),"is_risky, rental_deposit",3.555765608,0.0595189355
+클러스터0(서비스업),"is_risky, sum_customer_cnt",9.866729029,0.001714895
+클러스터0(서비스업),"is_risky, sum_new_customer_cnt",7.092461111,0.0078214006
+클러스터0(서비스업),"is_risky, sum_purchase_card",2.859602233,0.0910236219
+클러스터0(서비스업),"is_risky, sum_purchase_cash",1.711178266,0.1910194128
+클러스터0(서비스업),"is_risky, sum_purchase_invoice",0.3727168105,0.5416133063
+클러스터0(서비스업),"is_risky, sum_sales_card",49.17076913,0
+클러스터0(서비스업),"is_risky, sum_sales_delivery",3.42E-08,0.999852365
+클러스터0(서비스업),"is_risky, sum_sales_invoice",12.16807308,0.0004992327
+클러스터0(서비스업),"is_risky, sum_weekend_sales_card",41.75307827,1.00E-10
+클러스터0(서비스업),"is_risky, sum_weekend_sales_delivery",8.42E-08,0.9997684946
+,,,
+,,,
+,,,
+,,,
+클러스터0(유통업),"is_risky, age",0.1239937926,0.7248121623
+클러스터0(유통업),"is_risky, duration",0.4991043202,0.4800481769
+클러스터0(유통업),"is_risky, is_franchise",5.24E-07,0.9994226101
+클러스터0(유통업),"is_risky, business_square_size",0.4320191957,0.5111415718
+클러스터0(유통업),"is_risky, monthly_rental_fee",0.368273018,0.5440762317
+클러스터0(유통업),"is_risky, regular_employees_count",0.085114474,0.7705391891
+클러스터0(유통업),"is_risky, rental_deposit",0.91976502,0.3377539375
+클러스터0(유통업),"is_risky, sum_customer_cnt",5.058056534,0.0247310973
+클러스터0(유통업),"is_risky, sum_new_customer_cnt",4.662992659,0.0310592637
+클러스터0(유통업),"is_risky, sum_purchase_card",0.000305915,0.9860486396
+클러스터0(유통업),"is_risky, sum_purchase_cash",1.863056657,0.1725601715
+클러스터0(유통업),"is_risky, sum_purchase_invoice",1.279907394,0.2581704602
+클러스터0(유통업),"is_risky, sum_sales_card",6.098243417,0.013687291
+클러스터0(유통업),"is_risky, sum_sales_delivery",5.267814993,0.0219166092
+클러스터0(유통업),"is_risky, sum_sales_invoice",0.1050988472,0.7458580918
+클러스터0(유통업),"is_risky, sum_weekend_sales_card",5.430724304,0.0199711572
+클러스터0(유통업),"is_risky, sum_weekend_sales_delivery",5.440810684,0.0198567522
+,,,
+,,,
+,,,
+,,,
+클러스터0(외식업),"is_risky, age",1.619255645,0.203229092
+클러스터0(외식업),"is_risky, duration",0.5736811384,0.4488200241
+클러스터0(외식업),"is_risky, is_franchise",1.906814612,0.1673524504
+클러스터0(외식업),"is_risky, business_square_size",6.589278101,0.0102757898
+클러스터0(외식업),"is_risky, monthly_rental_fee",18.49315251,0.0000172348
+클러스터0(외식업),"is_risky, regular_employees_count",25.81412349,3.84E-07
+클러스터0(외식업),"is_risky, rental_deposit",40.33442421,2.00E-10
+클러스터0(외식업),"is_risky, sum_customer_cnt",125.2981584,6.93E-29
+클러스터0(외식업),"is_risky, sum_new_customer_cnt",166.9230411,7.80E-38
+클러스터0(외식업),"is_risky, sum_purchase_card",7.186642273,0.0073584632
+클러스터0(외식업),"is_risky, sum_purchase_cash",0.2302909411,0.6313200623
+클러스터0(외식업),"is_risky, sum_purchase_invoice",15.60245419,0.0000787606
+클러스터0(외식업),"is_risky, sum_sales_card",346.2789315,7.62E-76
+클러스터0(외식업),"is_risky, sum_sales_delivery",7.431522932,0.0064217416
+클러스터0(외식업),"is_risky, sum_sales_invoice",3.094075697,0.0786123727
+클러스터0(외식업),"is_risky, sum_weekend_sales_card",270.4031896,7.15E-60
+클러스터0(외식업),"is_risky, sum_weekend_sales_delivery",6.923530836,0.008521657
+,,,
+,,,
+,,,
+,,,
+,,,
+클러스터1(전체),"is_risky, age",9.368913161,0.0022165841
+클러스터1(전체),"is_risky, duration",13.24510939,0.0002755581
+클러스터1(전체),"is_risky, is_franchise",16.59962924,0.0000467469
+클러스터1(전체),"is_risky, business_square_size",0.5416346931,0.4617844083
+클러스터1(전체),"is_risky, monthly_rental_fee",0.0076628318,0.9302470779
+클러스터1(전체),"is_risky, regular_employees_count",0.4560075714,0.4995214421
+클러스터1(전체),"is_risky, rental_deposit",0.2375799523,0.6259770465
+클러스터1(전체),"is_risky, sum_customer_cnt",34.73645715,4.00E-09
+클러스터1(전체),"is_risky, sum_new_customer_cnt",171.8097109,1.03E-38
+클러스터1(전체),"is_risky, sum_purchase_card",12.18632206,0.0004848268
+클러스터1(전체),"is_risky, sum_purchase_cash",4.881606455,0.027181445
+클러스터1(전체),"is_risky, sum_purchase_invoice",9.75004883,0.0018015903
+클러스터1(전체),"is_risky, sum_sales_card",173.5826852,4.17E-39
+클러스터1(전체),"is_risky, sum_sales_delivery",19.32249394,0.0000112275
+클러스터1(전체),"is_risky, sum_sales_invoice",1.32219236,0.2502441512
+클러스터1(전체),"is_risky, sum_weekend_sales_card",178.2991887,4.16E-40
+클러스터1(전체),"is_risky, sum_weekend_sales_delivery",18.37198523,0.0000184515
+,,,
+,,,
+,,,
+,,,
+클러스터1(서비스업),"is_risky, age",0.0000020074,0.9988699222
+클러스터1(서비스업),"is_risky, duration",0.0648917195,0.7989949785
+클러스터1(서비스업),"is_risky, is_franchise",3.294613765,0.0699072821
+클러스터1(서비스업),"is_risky, business_square_size",0.0631921079,0.8015889675
+클러스터1(서비스업),"is_risky, monthly_rental_fee",0.1033615777,0.7479220003
+클러스터1(서비스업),"is_risky, regular_employees_count",1.106055193,0.2932802522
+클러스터1(서비스업),"is_risky, rental_deposit",0.1336984356,0.7147310171
+클러스터1(서비스업),"is_risky, sum_customer_cnt",2.282562212,0.131259588
+클러스터1(서비스업),"is_risky, sum_new_customer_cnt",7.727646924,0.0055752991
+클러스터1(서비스업),"is_risky, sum_purchase_card",2.668231828,0.1027899463
+클러스터1(서비스업),"is_risky, sum_purchase_cash",0.0829455459,0.7734243576
+클러스터1(서비스업),"is_risky, sum_purchase_invoice",1.566687336,0.2110795015
+클러스터1(서비스업),"is_risky, sum_sales_card",3.151604348,0.0762583732
+클러스터1(서비스업),"is_risky, sum_sales_delivery",6.15E-07,0.9993746234
+클러스터1(서비스업),"is_risky, sum_sales_invoice",0.7937529476,0.3732538179
+클러스터1(서비스업),"is_risky, sum_weekend_sales_card",8.155963603,0.0044107557
+클러스터1(서비스업),"is_risky, sum_weekend_sales_delivery",7.07E-08,0.9997879137
+,,,
+,,,
+,,,
+,,,
+클러스터1(유통업),"is_risky, age",2.920436388,0.0877982058
+클러스터1(유통업),"is_risky, duration",0.6098232969,0.4350532918
+클러스터1(유통업),"is_risky, is_franchise",,
+클러스터1(유통업),"is_risky, business_square_size",0.1538347931,0.6949872653
+클러스터1(유통업),"is_risky, monthly_rental_fee",8.063010565,0.0046163935
+클러스터1(유통업),"is_risky, regular_employees_count",0.2134953576,0.6441497661
+클러스터1(유통업),"is_risky, rental_deposit",0.3908006048,0.5320323894
+클러스터1(유통업),"is_risky, sum_customer_cnt",0.7576132124,0.384323399
+클러스터1(유통업),"is_risky, sum_new_customer_cnt",1.690804102,0.1938491244
+클러스터1(유통업),"is_risky, sum_purchase_card",0.6282542792,0.4281987435
+클러스터1(유통업),"is_risky, sum_purchase_cash",5.899743824,0.0153318676
+클러스터1(유통업),"is_risky, sum_purchase_invoice",0.9305773419,0.3349639872
+클러스터1(유통업),"is_risky, sum_sales_card",0.1315365013,0.7169267263
+클러스터1(유통업),"is_risky, sum_sales_delivery",3.04E-07,0.9995600501
+클러스터1(유통업),"is_risky, sum_sales_invoice",10.37484186,0.0013218291
+클러스터1(유통업),"is_risky, sum_weekend_sales_card",3.070206377,0.0800692536
+클러스터1(유통업),"is_risky, sum_weekend_sales_delivery",3.29E-07,0.99954265
+,,,
+,,,
+,,,
+,,,
+클러스터1(외식업),"is_risky, age",21.09823851,0.0000044851
+클러스터1(외식업),"is_risky, duration",0.1013898664,0.7501831712
+클러스터1(외식업),"is_risky, is_franchise",1.439946093,0.2302126115
+클러스터1(외식업),"is_risky, business_square_size",0.0499174439,0.8232173522
+클러스터1(외식업),"is_risky, monthly_rental_fee",0.0139035893,0.9061415876
+클러스터1(외식업),"is_risky, regular_employees_count",21.22035157,0.0000042096
+클러스터1(외식업),"is_risky, rental_deposit",0.1512444192,0.6973677732
+클러스터1(외식업),"is_risky, sum_customer_cnt",9.07856342,0.0026012977
+클러스터1(외식업),"is_risky, sum_new_customer_cnt",89.22038929,5.63E-21
+클러스터1(외식업),"is_risky, sum_purchase_card",0.7494395937,0.386700873
+클러스터1(외식업),"is_risky, sum_purchase_cash",0.0417441691,0.8381176506
+클러스터1(외식업),"is_risky, sum_purchase_invoice",23.98914145,0.0000010035
+클러스터1(외식업),"is_risky, sum_sales_card",222.1277288,4.79E-49
+클러스터1(외식업),"is_risky, sum_sales_delivery",8.001765426,0.004694305
+클러스터1(외식업),"is_risky, sum_sales_invoice",2.097191034,0.1476412122
+클러스터1(외식업),"is_risky, sum_weekend_sales_card",171.2896092,2.00E-38
+클러스터1(외식업),"is_risky, sum_weekend_sales_delivery",8.07486403,0.0045089773
+,,,
+,,,
+클러스터2(전체),"is_risky, age",45.78229608,0
+클러스터2(전체),"is_risky, duration",5.929585951,0.014900943
+클러스터2(전체),"is_risky, is_franchise",1.650472336,0.1989155739
+클러스터2(전체),"is_risky, business_square_size",18.37296942,0.0000182812
+클러스터2(전체),"is_risky, monthly_rental_fee",31.64956412,1.88E-08
+클러스터2(전체),"is_risky, regular_employees_count",56.46058903,0
+클러스터2(전체),"is_risky, rental_deposit",0.3974635042,0.5284122516
+클러스터2(전체),"is_risky, sum_customer_cnt",81.90080182,1.62E-19
+클러스터2(전체),"is_risky, sum_new_customer_cnt",121.2840366,4.33E-28
+클러스터2(전체),"is_risky, sum_purchase_card",3.796928967,0.0513663108
+클러스터2(전체),"is_risky, sum_purchase_cash",0.1457782095,0.7026086511
+클러스터2(전체),"is_risky, sum_purchase_invoice",3.020002135,0.0822649971
+클러스터2(전체),"is_risky, sum_sales_card",223.8110488,3.21E-50
+클러스터2(전체),"is_risky, sum_sales_delivery",35.86525645,2.20E-09
+클러스터2(전체),"is_risky, sum_sales_invoice",0.0077376886,0.9299064217
+클러스터2(전체),"is_risky, sum_weekend_sales_card",67.53581489,2.25E-16
+클러스터2(전체),"is_risky, sum_weekend_sales_delivery",3.98E+01,3.00E-10
+,,,
+,,,
+클러스터2(외식업),"is_risky, age",25.66074404,4.15E-07
+클러스터2(외식업),"is_risky, duration",24.16485275,8.99E-07
+클러스터2(외식업),"is_risky, is_franchise",3.579697655,0.0585193526
+클러스터2(외식업),"is_risky, business_square_size",21.36924781,0.0000038366
+클러스터2(외식업),"is_risky, monthly_rental_fee",30.29115672,3.81E-08
+클러스터2(외식업),"is_risky, regular_employees_count",60.57037338,0
+클러스터2(외식업),"is_risky, rental_deposit",0.3214704325,0.5707383384
+클러스터2(외식업),"is_risky, sum_customer_cnt",18.48205494,0.0000173211
+클러스터2(외식업),"is_risky, sum_new_customer_cnt",105.4672024,1.29E-24
+클러스터2(외식업),"is_risky, sum_purchase_card",23.00756069,0.0000016375
+클러스터2(외식업),"is_risky, sum_purchase_cash",1.637349588,0.2007199045
+클러스터2(외식업),"is_risky, sum_purchase_invoice",12.32899554,0.0004479895
+클러스터2(외식업),"is_risky, sum_sales_card",372.1147872,2.10E-81
+클러스터2(외식업),"is_risky, sum_sales_delivery",17.11772513,0.0000354275
+클러스터2(외식업),"is_risky, sum_sales_invoice",1.451254074,0.228356028
+클러스터2(외식업),"is_risky, sum_weekend_sales_card",145.1311452,3.45E-33
+클러스터2(외식업),"is_risky, sum_weekend_sales_delivery",22.49723661,0.0000021343
+,,,
+,,,
+클러스터2(서비스업),"is_risky, age",,
+클러스터2(서비스업),"is_risky, duration",,
+클러스터2(서비스업),"is_risky, is_franchise",,
+클러스터2(서비스업),"is_risky, business_square_size",,
+클러스터2(서비스업),"is_risky, monthly_rental_fee",,
+클러스터2(서비스업),"is_risky, regular_employees_count",,
+클러스터2(서비스업),"is_risky, rental_deposit",,
+클러스터2(서비스업),"is_risky, sum_customer_cnt",,
+클러스터2(서비스업),"is_risky, sum_new_customer_cnt",,
+클러스터2(서비스업),"is_risky, sum_purchase_card",,
+클러스터2(서비스업),"is_risky, sum_purchase_cash",,
+클러스터2(서비스업),"is_risky, sum_purchase_invoice",,
+클러스터2(서비스업),"is_risky, sum_sales_card",,
+클러스터2(서비스업),"is_risky, sum_sales_delivery",,
+클러스터2(서비스업),"is_risky, sum_sales_invoice",,
+클러스터2(서비스업),"is_risky, sum_weekend_sales_card",,
+클러스터2(서비스업),"is_risky, sum_weekend_sales_delivery",,
+,,,
+,,,
+클러스터2(유통업),"is_risky, age",1.719957103,0.1899690373
+클러스터2(유통업),"is_risky, duration",0.6509316936,0.4199521374
+클러스터2(유통업),"is_risky, is_franchise",0.1340454041,0.7143435343
+클러스터2(유통업),"is_risky, business_square_size",4.361413834,0.0369886044
+클러스터2(유통업),"is_risky, monthly_rental_fee",3.38695289,0.0659803875
+클러스터2(유통업),"is_risky, regular_employees_count",5.100857304,0.0241069774
+클러스터2(유통업),"is_risky, rental_deposit",3.638962563,0.0566992587
+클러스터2(유통업),"is_risky, sum_customer_cnt",13.66437366,0.0002299793
+클러스터2(유통업),"is_risky, sum_new_customer_cnt",12.16636111,0.0005069661
+클러스터2(유통업),"is_risky, sum_purchase_card",1.087709688,0.2972056996
+클러스터2(유통업),"is_risky, sum_purchase_cash",0.044681471,0.8326295208
+클러스터2(유통업),"is_risky, sum_purchase_invoice",0.0264512302,0.8708327189
+클러스터2(유통업),"is_risky, sum_sales_card",8.736321427,0.0031850579
+클러스터2(유통업),"is_risky, sum_sales_delivery",0.0150818566,0.9022811435
+클러스터2(유통업),"is_risky, sum_sales_invoice",17.19007271,0.0000363888
+클러스터2(유통업),"is_risky, sum_weekend_sales_card",1.86496461,0.1723288164
+클러스터2(유통업),"is_risky, sum_weekend_sales_delivery",0.0086953072,0.9257228227
+,,,
+,,,
+클러스터3(전체),"is_risky, age",4.235456218,0.0396280553
+클러스터3(전체),"is_risky, duration",16.03676103,0.0000628218
+클러스터3(전체),"is_risky, is_franchise",12.01201609,0.0005320283
+클러스터3(전체),"is_risky, business_square_size",2.542811166,0.1108463344
+클러스터3(전체),"is_risky, monthly_rental_fee",0.6874170772,0.407074987
+클러스터3(전체),"is_risky, regular_employees_count",0.0391987308,0.8430617131
+클러스터3(전체),"is_risky, rental_deposit",0.4760227788,0.4902541901
+클러스터3(전체),"is_risky, sum_customer_cnt",63.37600447,0
+클러스터3(전체),"is_risky, sum_new_customer_cnt",208.0278086,2.02E-46
+클러스터3(전체),"is_risky, sum_purchase_card",12.81464204,0.0003464446
+클러스터3(전체),"is_risky, sum_purchase_cash",3.571955116,0.058807863
+클러스터3(전체),"is_risky, sum_purchase_invoice",9.052753197,0.0026331219
+클러스터3(전체),"is_risky, sum_sales_card",185.9413499,9.23E-42
+클러스터3(전체),"is_risky, sum_sales_delivery",22.28689269,0.0000023976
+클러스터3(전체),"is_risky, sum_sales_invoice",1.011830318,0.3145024668
+클러스터3(전체),"is_risky, sum_weekend_sales_card",192.695021,3.41E-43
+클러스터3(전체),"is_risky, sum_weekend_sales_delivery",21.79211559,0.0000030999
+,,,
+,,,
+클러스터3(외식업),"is_risky, age",14.20320006,0.0001660463
+클러스터3(외식업),"is_risky, duration",0.4388054197,0.5077311659
+클러스터3(외식업),"is_risky, is_franchise",0.3721521043,0.541862187
+클러스터3(외식업),"is_risky, business_square_size",0.0527183779,0.8184085657
+클러스터3(외식업),"is_risky, monthly_rental_fee",0.0835953867,0.772495312
+클러스터3(외식업),"is_risky, regular_employees_count",42.00733888,1.00E-10
+클러스터3(외식업),"is_risky, rental_deposit",0.4052276861,0.5244318715
+클러스터3(외식업),"is_risky, sum_customer_cnt",31.85535426,1.76E-08
+클러스터3(외식업),"is_risky, sum_new_customer_cnt",114.9231433,1.65E-26
+클러스터3(외식업),"is_risky, sum_purchase_card",1.346022311,0.2460319912
+클러스터3(외식업),"is_risky, sum_purchase_cash",0.1181666147,0.7310464607
+클러스터3(외식업),"is_risky, sum_purchase_invoice",24.09445926,9.47E-07
+클러스터3(외식업),"is_risky, sum_sales_card",229.2902469524`,1.22E-50
+클러스터3(외식업),"is_risky, sum_sales_delivery",9.763437909,0.0017907074
+클러스터3(외식업),"is_risky, sum_sales_invoice",2.095701889,0.1477786969
+클러스터3(외식업),"is_risky, sum_weekend_sales_card",181.3055346,1.34E-40
+클러스터3(외식업),"is_risky, sum_weekend_sales_delivery",10.21742125,0.0014001594
+,,,
+,,,
+클러스터3(서비스업),"is_risky, age",0.2539094053,0.6144628313
+클러스터3(서비스업),"is_risky, duration",0.9627165999,0.3267752109
+클러스터3(서비스업),"is_risky, is_franchise",3.361695739,0.0670696435
+클러스터3(서비스업),"is_risky, business_square_size",0.1232766003,0.7255922833
+클러스터3(서비스업),"is_risky, monthly_rental_fee",0.0947785762,0.7582613137
+클러스터3(서비스업),"is_risky, regular_employees_count",0.3611683606,0.5480140715
+클러스터3(서비스업),"is_risky, rental_deposit",0.2546875571,0.6139209516
+클러스터3(서비스업),"is_risky, sum_customer_cnt",2.884926762,0.0897700338
+클러스터3(서비스업),"is_risky, sum_new_customer_cnt",9.544308456,0.002069531
+클러스터3(서비스업),"is_risky, sum_purchase_card",2.225964241,0.136069171
+클러스터3(서비스업),"is_risky, sum_purchase_cash",0.0000170737,0.9967040681
+클러스터3(서비스업),"is_risky, sum_purchase_invoice",1.017537954,0.3133832263
+클러스터3(서비스업),"is_risky, sum_sales_card",3.799217078,0.0515964963
+클러스터3(서비스업),"is_risky, sum_sales_delivery",-3.71E-07,1
+클러스터3(서비스업),"is_risky, sum_sales_invoice",5.207361734,0.022731322
+클러스터3(서비스업),"is_risky, sum_weekend_sales_card",8.918195663,0.0029023276
+클러스터3(서비스업),"is_risky, sum_weekend_sales_delivery",2.66E-07,0.9995887757
+,,,
+,,,
+클러스터3(유통업),"is_risky, age",1.66015983,0.1979838976
+클러스터3(유통업),"is_risky, duration",0.0017164129,0.9669645653
+클러스터3(유통업),"is_risky, is_franchise",,
+클러스터3(유통업),"is_risky, business_square_size",0.3619219858,0.5476247522
+클러스터3(유통업),"is_risky, monthly_rental_fee",6.483284374,0.0110906428
+클러스터3(유통업),"is_risky, regular_employees_count",0.0612146054,0.8046550342
+클러스터3(유통업),"is_risky, rental_deposit",0.2465842794,0.6196378028
+클러스터3(유통업),"is_risky, sum_customer_cnt",0.3181392365,0.5729107973
+클러스터3(유통업),"is_risky, sum_new_customer_cnt",0.9574780319,0.3281650582
+클러스터3(유통업),"is_risky, sum_purchase_card",0.7483762424,0.3872707833
+클러스터3(유통업),"is_risky, sum_purchase_cash",7.473288457,0.0064115307
+클러스터3(유통업),"is_risky, sum_purchase_invoice",0.4581182968,0.4987159353
+클러스터3(유통업),"is_risky, sum_sales_card",0.4054095501,0.5245053215
+클러스터3(유통업),"is_risky, sum_sales_delivery",1.06E-07,0.9997402666
+클러스터3(유통업),"is_risky, sum_sales_invoice",9.489681704,0.0021427172
+클러스터3(유통업),"is_risky, sum_weekend_sales_card",2.485234993,0.1153459856
+클러스터3(유통업),"is_risky, sum_weekend_sales_delivery",-2.07E-07,1
