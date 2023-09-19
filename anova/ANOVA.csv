@@ -1,407 +1,407 @@
-ë²”ìœ„,ì„¤ëª…,f,p-value
-ì „ì²´,"is_risky, age",70.89773452,3.88E-17
-ì „ì²´,"is_risky, duration",0.13597881,0.7123136834
-ì „ì²´,"is_risky, is_franchise",22.38861882,0.0000022342
-ì „ì²´,"is_risky, business_square_size",5.897178409,0.0151693749
-ì „ì²´,"is_risky, monthly_rental_fee",0.1017202165,0.7497765951
-ì „ì²´,"is_risky, regular_employees_count",24.38618392,7.91E-07
-ì „ì²´,"is_risky, rental_deposit",0.3783462771,0.5384929809
-ì „ì²´,"is_risky, sum_customer_cnt",310.8959405,2.54E-69
-ì „ì²´,"is_risky, sum_new_customer_cnt",559.8344682,6.28E-123
-ì „ì²´,"is_risky, sum_purchase_card",39.68665479,3.00E-10
-ì „ì²´,"is_risky, sum_purchase_cash",2.119874122,0.1454060494
-ì „ì²´,"is_risky, sum_purchase_invoice",20.2196058,0.0000069228
-ì „ì²´,"is_risky, sum_sales_card",322.513662,7.68E-72
-ì „ì²´,"is_risky, sum_sales_delivery",95.39440525,1.65E-22
-ì „ì²´,"is_risky, sum_sales_invoice",2.377555055,0.123097674
-ì „ì²´,"is_risky, sum_weekend_sales_card",418.7916432,1.28E-92
-ì „ì²´,"is_risky, sum_weekend_sales_delivery",90.11585154,2.36E-21
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-ì„œë¹„ìŠ¤ì—…,"is_risky, age",18.02110753,2.21E-05
-ì„œë¹„ìŠ¤ì—…,"is_risky, duration",13.43214176,0.000248765
-ì„œë¹„ìŠ¤ì—…,"is_risky, is_franchise",,
-ì„œë¹„ìŠ¤ì—…,"is_risky, business_square_size",10.54781415,0.0011674974
-ì„œë¹„ìŠ¤ì—…,"is_risky, monthly_rental_fee",11.40562554,0.0007353069
-ì„œë¹„ìŠ¤ì—…,"is_risky, regular_employees_count",26.97943105,2.10E-07
-ì„œë¹„ìŠ¤ì—…,"is_risky, rental_deposit",3.888998217,0.0486338222
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_customer_cnt",14.36895668,1.51E-04
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_new_customer_cnt",12.5285925,4.03E-04
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_purchase_card",2.192005547,1.39E-01
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_purchase_cash",0.1243968532,0.724322041
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_purchase_invoice",4.525256037,0.0334250546
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_sales_card",52.65785048,0
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_sales_delivery",6.20E-09,0.9999371274
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_sales_invoice",1.025423997,0.3112629517
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_weekend_sales_card",61.94869604,0
-ì„œë¹„ìŠ¤ì—…,"is_risky, sum_weekend_sales_delivery",4.98E-08,0.999821963
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-ìœ í†µì—…,"is_risky, age",1.952788967,0.1623705056
-ìœ í†µì—…,"is_risky, duration",0.0564745015,0.8121706691
-ìœ í†µì—…,"is_risky, is_franchise",0.0454313163,0.8312246605
-ìœ í†µì—…,"is_risky, business_square_size",1.56432405,0.2111123883
-ìœ í†µì—…,"is_risky, monthly_rental_fee",3.80623688,0.0511375118
-ìœ í†µì—…,"is_risky, regular_employees_count",1.019976235,0.3125907754
-ìœ í†µì—…,"is_risky, rental_deposit",1.1727927,0.2788988025
-ìœ í†µì—…,"is_risky, sum_customer_cnt",14.63901146,0.0001325034
-ìœ í†µì—…,"is_risky, sum_new_customer_cnt",0.0493071139,0.8242856311
-ìœ í†µì—…,"is_risky, sum_purchase_card",4.616160462,0.0317368388
-ìœ í†µì—…,"is_risky, sum_purchase_cash",4.616160462,0.0317368388
-ìœ í†µì—…,"is_risky, sum_purchase_invoice",1.707399133,0.1914044658
-ìœ í†µì—…,"is_risky, sum_sales_card",12.15380585,0.0004955794
-ìœ í†µì—…,"is_risky, sum_sales_delivery",4.968810752,0.0258682743
-ìœ í†µì—…,"is_risky, sum_sales_invoice",6.26226808,0.0123764793
-ìœ í†µì—…,"is_risky, sum_weekend_sales_card",2.365229749,0.124151247
-ìœ í†µì—…,"is_risky, sum_weekend_sales_delivery",5.133623686,0.0235242933
-,,,
-,,,
-,,,
-ì™¸ì‹ì—…,"is_risky, age",54.14065457,0.00E+00
-ì™¸ì‹ì—…,"is_risky, duration",15.66001846,0.0000759916
-ì™¸ì‹ì—…,"is_risky, is_franchise",0.7050122495,0.4011115822
-ì™¸ì‹ì—…,"is_risky, business_square_size",24.08559667,9.27E-07
-ì™¸ì‹ì—…,"is_risky, monthly_rental_fee",0.0052532007,0.9422212463
-ì™¸ì‹ì—…,"is_risky, regular_employees_count",74.8250511,5.41E-18
-ì™¸ì‹ì—…,"is_risky, rental_deposit",0.4747194052,0.4908295453
-ì™¸ì‹ì—…,"is_risky, sum_customer_cnt",110.3071787,9.37E-26
-ì™¸ì‹ì—…,"is_risky, sum_new_customer_cnt",382.5344435,1.28E-84
-ì™¸ì‹ì—…,"is_risky, sum_purchase_card",34.41971793,4.50E-09
-ì™¸ì‹ì—…,"is_risky, sum_purchase_cash",0.1141135166,0.7355111548
-ì™¸ì‹ì—…,"is_risky, sum_purchase_invoice",18.24116171,0.000019525
-ì™¸ì‹ì—…,"is_risky, sum_sales_delivery",,
-ì™¸ì‹ì—…,"is_risky, sum_sales_card",1028.274264,1.02E-221
-ì™¸ì‹ì—…,"is_risky, sum_weekend_sales_card",678.7666117,6.43E-148
-ì™¸ì‹ì—…,"is_risky, sum_weekend_sales_delivery",3.78E+01,8.00E-10
-ì™¸ì‹ì—…,"(is_risky, sum_sales_invoice",0.8006691793,0.3709008478
-ì™¸ì‹ì—…,"is_risky, sum_sales_delivery",3.74E+01,1.00E-09
-,,,
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, age",8.003858088,0.004675848
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, duration",2.109519874,0.146412484
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, is_franchise",0.4813022464,0.4878470369
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, business_square_size",6.494638695,0.0108328935
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, monthly_rental_fee",9.157689158,0.002482221
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, regular_employees_count",38.19352126,7.00E-10
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, rental_deposit",0.6676172935,0.4139004652
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_customer_cnt",221.2018622,1.47E-49
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_new_customer_cnt",268.3988267,1.26E-59
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_purchase_card",0.0680159396,0.7942524432
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_purchase_cash",3.203775219,0.0734947613
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_purchase_invoice",0.1820040637,0.6696645814
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_sales_card",492.2096632,8.00E-107
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_sales_delivery",27.29670851,1.78E-07
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_sales_invoice",2.338615698,0.1262291243
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_weekend_sales_card",401.0468521,1.01E-87
-í´ëŸ¬ìŠ¤í„°0(ì „ì²´),"is_risky, sum_weekend_sales_delivery",26.0472434,3.39E-07
-,,,
-,,,
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, age",19.04230184,0.0000135986
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, duration",17.23049401,0.0000348411
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, is_franchise",2.625352077,0.1053651265
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, business_square_size",3.062344448,0.0803165967
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, monthly_rental_fee",3.741910594,0.0532388694
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, regular_employees_count",22.42268324,0.0000023804
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, rental_deposit",3.555765608,0.0595189355
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_customer_cnt",9.866729029,0.001714895
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_new_customer_cnt",7.092461111,0.0078214006
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_card",2.859602233,0.0910236219
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_cash",1.711178266,0.1910194128
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_invoice",0.3727168105,0.5416133063
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_card",49.17076913,0
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_delivery",3.42E-08,0.999852365
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_invoice",12.16807308,0.0004992327
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_weekend_sales_card",41.75307827,1.00E-10
-í´ëŸ¬ìŠ¤í„°0(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_weekend_sales_delivery",8.42E-08,0.9997684946
-,,,
-,,,
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, age",0.1239937926,0.7248121623
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, duration",0.4991043202,0.4800481769
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, is_franchise",5.24E-07,0.9994226101
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, business_square_size",0.4320191957,0.5111415718
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, monthly_rental_fee",0.368273018,0.5440762317
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, regular_employees_count",0.085114474,0.7705391891
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, rental_deposit",0.91976502,0.3377539375
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_customer_cnt",5.058056534,0.0247310973
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_new_customer_cnt",4.662992659,0.0310592637
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_purchase_card",0.000305915,0.9860486396
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_purchase_cash",1.863056657,0.1725601715
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_purchase_invoice",1.279907394,0.2581704602
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_sales_card",6.098243417,0.013687291
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_sales_delivery",5.267814993,0.0219166092
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_sales_invoice",0.1050988472,0.7458580918
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_weekend_sales_card",5.430724304,0.0199711572
-í´ëŸ¬ìŠ¤í„°0(ìœ í†µì—…),"is_risky, sum_weekend_sales_delivery",5.440810684,0.0198567522
-,,,
-,,,
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, age",1.619255645,0.203229092
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, duration",0.5736811384,0.4488200241
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, is_franchise",1.906814612,0.1673524504
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, business_square_size",6.589278101,0.0102757898
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, monthly_rental_fee",18.49315251,0.0000172348
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, regular_employees_count",25.81412349,3.84E-07
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, rental_deposit",40.33442421,2.00E-10
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_customer_cnt",125.2981584,6.93E-29
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_new_customer_cnt",166.9230411,7.80E-38
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_purchase_card",7.186642273,0.0073584632
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_purchase_cash",0.2302909411,0.6313200623
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_purchase_invoice",15.60245419,0.0000787606
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_sales_card",346.2789315,7.62E-76
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_sales_delivery",7.431522932,0.0064217416
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_sales_invoice",3.094075697,0.0786123727
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_weekend_sales_card",270.4031896,7.15E-60
-í´ëŸ¬ìŠ¤í„°0(ì™¸ì‹ì—…),"is_risky, sum_weekend_sales_delivery",6.923530836,0.008521657
-,,,
-,,,
-,,,
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, age",9.368913161,0.0022165841
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, duration",13.24510939,0.0002755581
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, is_franchise",16.59962924,0.0000467469
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, business_square_size",0.5416346931,0.4617844083
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, monthly_rental_fee",0.0076628318,0.9302470779
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, regular_employees_count",0.4560075714,0.4995214421
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, rental_deposit",0.2375799523,0.6259770465
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_customer_cnt",34.73645715,4.00E-09
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_new_customer_cnt",171.8097109,1.03E-38
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_purchase_card",12.18632206,0.0004848268
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_purchase_cash",4.881606455,0.027181445
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_purchase_invoice",9.75004883,0.0018015903
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_sales_card",173.5826852,4.17E-39
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_sales_delivery",19.32249394,0.0000112275
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_sales_invoice",1.32219236,0.2502441512
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_weekend_sales_card",178.2991887,4.16E-40
-í´ëŸ¬ìŠ¤í„°1(ì „ì²´),"is_risky, sum_weekend_sales_delivery",18.37198523,0.0000184515
-,,,
-,,,
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, age",0.0000020074,0.9988699222
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, duration",0.0648917195,0.7989949785
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, is_franchise",3.294613765,0.0699072821
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, business_square_size",0.0631921079,0.8015889675
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, monthly_rental_fee",0.1033615777,0.7479220003
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, regular_employees_count",1.106055193,0.2932802522
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, rental_deposit",0.1336984356,0.7147310171
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_customer_cnt",2.282562212,0.131259588
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_new_customer_cnt",7.727646924,0.0055752991
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_card",2.668231828,0.1027899463
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_cash",0.0829455459,0.7734243576
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_invoice",1.566687336,0.2110795015
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_card",3.151604348,0.0762583732
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_delivery",6.15E-07,0.9993746234
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_invoice",0.7937529476,0.3732538179
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_weekend_sales_card",8.155963603,0.0044107557
-í´ëŸ¬ìŠ¤í„°1(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_weekend_sales_delivery",7.07E-08,0.9997879137
-,,,
-,,,
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, age",2.920436388,0.0877982058
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, duration",0.6098232969,0.4350532918
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, is_franchise",,
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, business_square_size",0.1538347931,0.6949872653
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, monthly_rental_fee",8.063010565,0.0046163935
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, regular_employees_count",0.2134953576,0.6441497661
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, rental_deposit",0.3908006048,0.5320323894
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_customer_cnt",0.7576132124,0.384323399
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_new_customer_cnt",1.690804102,0.1938491244
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_purchase_card",0.6282542792,0.4281987435
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_purchase_cash",5.899743824,0.0153318676
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_purchase_invoice",0.9305773419,0.3349639872
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_sales_card",0.1315365013,0.7169267263
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_sales_delivery",3.04E-07,0.9995600501
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_sales_invoice",10.37484186,0.0013218291
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_weekend_sales_card",3.070206377,0.0800692536
-í´ëŸ¬ìŠ¤í„°1(ìœ í†µì—…),"is_risky, sum_weekend_sales_delivery",3.29E-07,0.99954265
-,,,
-,,,
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, age",21.09823851,0.0000044851
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, duration",0.1013898664,0.7501831712
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, is_franchise",1.439946093,0.2302126115
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, business_square_size",0.0499174439,0.8232173522
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, monthly_rental_fee",0.0139035893,0.9061415876
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, regular_employees_count",21.22035157,0.0000042096
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, rental_deposit",0.1512444192,0.6973677732
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_customer_cnt",9.07856342,0.0026012977
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_new_customer_cnt",89.22038929,5.63E-21
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_purchase_card",0.7494395937,0.386700873
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_purchase_cash",0.0417441691,0.8381176506
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_purchase_invoice",23.98914145,0.0000010035
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_sales_card",222.1277288,4.79E-49
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_sales_delivery",8.001765426,0.004694305
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_sales_invoice",2.097191034,0.1476412122
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_weekend_sales_card",171.2896092,2.00E-38
-í´ëŸ¬ìŠ¤í„°1(ì™¸ì‹ì—…),"is_risky, sum_weekend_sales_delivery",8.07486403,0.0045089773
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, age",45.78229608,0
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, duration",5.929585951,0.014900943
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, is_franchise",1.650472336,0.1989155739
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, business_square_size",18.37296942,0.0000182812
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, monthly_rental_fee",31.64956412,1.88E-08
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, regular_employees_count",56.46058903,0
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, rental_deposit",0.3974635042,0.5284122516
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_customer_cnt",81.90080182,1.62E-19
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_new_customer_cnt",121.2840366,4.33E-28
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_purchase_card",3.796928967,0.0513663108
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_purchase_cash",0.1457782095,0.7026086511
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_purchase_invoice",3.020002135,0.0822649971
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_sales_card",223.8110488,3.21E-50
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_sales_delivery",35.86525645,2.20E-09
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_sales_invoice",0.0077376886,0.9299064217
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_weekend_sales_card",67.53581489,2.25E-16
-í´ëŸ¬ìŠ¤í„°2(ì „ì²´),"is_risky, sum_weekend_sales_delivery",3.98E+01,3.00E-10
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, age",25.66074404,4.15E-07
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, duration",24.16485275,8.99E-07
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, is_franchise",3.579697655,0.0585193526
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, business_square_size",21.36924781,0.0000038366
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, monthly_rental_fee",30.29115672,3.81E-08
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, regular_employees_count",60.57037338,0
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, rental_deposit",0.3214704325,0.5707383384
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_customer_cnt",18.48205494,0.0000173211
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_new_customer_cnt",105.4672024,1.29E-24
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_purchase_card",23.00756069,0.0000016375
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_purchase_cash",1.637349588,0.2007199045
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_purchase_invoice",12.32899554,0.0004479895
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_sales_card",372.1147872,2.10E-81
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_sales_delivery",17.11772513,0.0000354275
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_sales_invoice",1.451254074,0.228356028
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_weekend_sales_card",145.1311452,3.45E-33
-í´ëŸ¬ìŠ¤í„°2(ì™¸ì‹ì—…),"is_risky, sum_weekend_sales_delivery",22.49723661,0.0000021343
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, age",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, duration",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, is_franchise",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, business_square_size",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, monthly_rental_fee",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, regular_employees_count",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, rental_deposit",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_customer_cnt",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_new_customer_cnt",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_card",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_cash",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_invoice",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_card",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_delivery",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_invoice",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_weekend_sales_card",,
-í´ëŸ¬ìŠ¤í„°2(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_weekend_sales_delivery",,
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, age",1.719957103,0.1899690373
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, duration",0.6509316936,0.4199521374
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, is_franchise",0.1340454041,0.7143435343
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, business_square_size",4.361413834,0.0369886044
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, monthly_rental_fee",3.38695289,0.0659803875
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, regular_employees_count",5.100857304,0.0241069774
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, rental_deposit",3.638962563,0.0566992587
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_customer_cnt",13.66437366,0.0002299793
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_new_customer_cnt",12.16636111,0.0005069661
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_purchase_card",1.087709688,0.2972056996
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_purchase_cash",0.044681471,0.8326295208
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_purchase_invoice",0.0264512302,0.8708327189
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_sales_card",8.736321427,0.0031850579
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_sales_delivery",0.0150818566,0.9022811435
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_sales_invoice",17.19007271,0.0000363888
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_weekend_sales_card",1.86496461,0.1723288164
-í´ëŸ¬ìŠ¤í„°2(ìœ í†µì—…),"is_risky, sum_weekend_sales_delivery",0.0086953072,0.9257228227
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, age",4.235456218,0.0396280553
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, duration",16.03676103,0.0000628218
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, is_franchise",12.01201609,0.0005320283
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, business_square_size",2.542811166,0.1108463344
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, monthly_rental_fee",0.6874170772,0.407074987
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, regular_employees_count",0.0391987308,0.8430617131
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, rental_deposit",0.4760227788,0.4902541901
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_customer_cnt",63.37600447,0
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_new_customer_cnt",208.0278086,2.02E-46
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_purchase_card",12.81464204,0.0003464446
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_purchase_cash",3.571955116,0.058807863
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_purchase_invoice",9.052753197,0.0026331219
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_sales_card",185.9413499,9.23E-42
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_sales_delivery",22.28689269,0.0000023976
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_sales_invoice",1.011830318,0.3145024668
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_weekend_sales_card",192.695021,3.41E-43
-í´ëŸ¬ìŠ¤í„°3(ì „ì²´),"is_risky, sum_weekend_sales_delivery",21.79211559,0.0000030999
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, age",14.20320006,0.0001660463
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, duration",0.4388054197,0.5077311659
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, is_franchise",0.3721521043,0.541862187
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, business_square_size",0.0527183779,0.8184085657
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, monthly_rental_fee",0.0835953867,0.772495312
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, regular_employees_count",42.00733888,1.00E-10
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, rental_deposit",0.4052276861,0.5244318715
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_customer_cnt",31.85535426,1.76E-08
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_new_customer_cnt",114.9231433,1.65E-26
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_purchase_card",1.346022311,0.2460319912
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_purchase_cash",0.1181666147,0.7310464607
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_purchase_invoice",24.09445926,9.47E-07
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_sales_card",229.2902469524`,1.22E-50
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_sales_delivery",9.763437909,0.0017907074
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_sales_invoice",2.095701889,0.1477786969
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_weekend_sales_card",181.3055346,1.34E-40
-í´ëŸ¬ìŠ¤í„°3(ì™¸ì‹ì—…),"is_risky, sum_weekend_sales_delivery",10.21742125,0.0014001594
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, age",0.2539094053,0.6144628313
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, duration",0.9627165999,0.3267752109
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, is_franchise",3.361695739,0.0670696435
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, business_square_size",0.1232766003,0.7255922833
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, monthly_rental_fee",0.0947785762,0.7582613137
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, regular_employees_count",0.3611683606,0.5480140715
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, rental_deposit",0.2546875571,0.6139209516
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_customer_cnt",2.884926762,0.0897700338
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_new_customer_cnt",9.544308456,0.002069531
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_card",2.225964241,0.136069171
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_cash",0.0000170737,0.9967040681
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_purchase_invoice",1.017537954,0.3133832263
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_card",3.799217078,0.0515964963
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_delivery",-3.71E-07,1
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_sales_invoice",5.207361734,0.022731322
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_weekend_sales_card",8.918195663,0.0029023276
-í´ëŸ¬ìŠ¤í„°3(ì„œë¹„ìŠ¤ì—…),"is_risky, sum_weekend_sales_delivery",2.66E-07,0.9995887757
-,,,
-,,,
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, age",1.66015983,0.1979838976
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, duration",0.0017164129,0.9669645653
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, is_franchise",,
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, business_square_size",0.3619219858,0.5476247522
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, monthly_rental_fee",6.483284374,0.0110906428
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, regular_employees_count",0.0612146054,0.8046550342
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, rental_deposit",0.2465842794,0.6196378028
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_customer_cnt",0.3181392365,0.5729107973
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_new_customer_cnt",0.9574780319,0.3281650582
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_purchase_card",0.7483762424,0.3872707833
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_purchase_cash",7.473288457,0.0064115307
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_purchase_invoice",0.4581182968,0.4987159353
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_sales_card",0.4054095501,0.5245053215
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_sales_delivery",1.06E-07,0.9997402666
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_sales_invoice",9.489681704,0.0021427172
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_weekend_sales_card",2.485234993,0.1153459856
-í´ëŸ¬ìŠ¤í„°3(ìœ í†µì—…),"is_risky, sum_weekend_sales_delivery",-2.07E-07,1
+¹üÀ§,¼³¸í,f,p-value
+ÀüÃ¼,"is_risky, sum_new_customer_cnt",559.8344682,6.28E-123
+ÀüÃ¼,"is_risky, sum_weekend_sales_card",418.7916432,1.28E-92
+ÀüÃ¼,"is_risky, sum_sales_card",322.513662,7.68E-72
+ÀüÃ¼,"is_risky, sum_customer_cnt",310.8959405,2.54E-69
+ÀüÃ¼,"is_risky, sum_sales_delivery",95.39440525,1.65E-22
+ÀüÃ¼,"is_risky, sum_weekend_sales_delivery",90.11585154,2.36E-21
+ÀüÃ¼,"is_risky, age",70.89773452,3.88E-17
+ÀüÃ¼,"is_risky, sum_purchase_card",39.68665479,3.00E-10
+ÀüÃ¼,"is_risky, regular_employees_count",24.38618392,7.91E-07
+ÀüÃ¼,"is_risky, is_franchise",22.38861882,2.2342E-06
+ÀüÃ¼,"is_risky, sum_purchase_invoice",20.2196058,6.9228E-06
+ÀüÃ¼,"is_risky, business_square_size",5.897178409,0.015169375
+ÀüÃ¼,"is_risky, sum_sales_invoice",2.377555055,0.123097674
+ÀüÃ¼,"is_risky, sum_purchase_cash",2.119874122,0.145406049
+ÀüÃ¼,"is_risky, rental_deposit",0.378346277,0.538492981
+ÀüÃ¼,"is_risky, duration",0.13597881,0.712313683
+ÀüÃ¼,"is_risky, monthly_rental_fee",0.101720217,0.749776595
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+¼­ºñ½º¾÷,"is_risky, sum_sales_card",52.65785048,0
+¼­ºñ½º¾÷,"is_risky, sum_weekend_sales_card",61.94869604,0
+¼­ºñ½º¾÷,"is_risky, regular_employees_count",26.97943105,2.10E-07
+¼­ºñ½º¾÷,"is_risky, age",18.02110753,2.21E-05
+¼­ºñ½º¾÷,"is_risky, sum_customer_cnt",14.36895668,1.51E-04
+¼­ºñ½º¾÷,"is_risky, duration",13.43214176,0.000248765
+¼­ºñ½º¾÷,"is_risky, sum_new_customer_cnt",12.5285925,4.03E-04
+¼­ºñ½º¾÷,"is_risky, monthly_rental_fee",11.40562554,0.000735307
+¼­ºñ½º¾÷,"is_risky, business_square_size",10.54781415,0.001167497
+¼­ºñ½º¾÷,"is_risky, sum_purchase_invoice",4.525256037,0.033425055
+¼­ºñ½º¾÷,"is_risky, rental_deposit",3.888998217,0.048633822
+¼­ºñ½º¾÷,"is_risky, sum_purchase_card",2.192005547,1.39E-01
+¼­ºñ½º¾÷,"is_risky, sum_sales_invoice",1.025423997,0.311262952
+¼­ºñ½º¾÷,"is_risky, sum_purchase_cash",0.124396853,0.724322041
+¼­ºñ½º¾÷,"is_risky, sum_weekend_sales_delivery",4.98E-08,0.999821963
+¼­ºñ½º¾÷,"is_risky, sum_sales_delivery",6.20E-09,0.999937127
+¼­ºñ½º¾÷,"is_risky, is_franchise",,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+À¯Åë¾÷,"is_risky, sum_customer_cnt",14.63901146,0.000132503
+À¯Åë¾÷,"is_risky, sum_sales_card",12.15380585,0.000495579
+À¯Åë¾÷,"is_risky, sum_sales_invoice",6.26226808,0.012376479
+À¯Åë¾÷,"is_risky, sum_weekend_sales_delivery",5.133623686,0.023524293
+À¯Åë¾÷,"is_risky, sum_sales_delivery",4.968810752,0.025868274
+À¯Åë¾÷,"is_risky, sum_purchase_card",4.616160462,0.031736839
+À¯Åë¾÷,"is_risky, sum_purchase_cash",4.616160462,0.031736839
+À¯Åë¾÷,"is_risky, monthly_rental_fee",3.80623688,0.051137512
+À¯Åë¾÷,"is_risky, sum_weekend_sales_card",2.365229749,0.124151247
+À¯Åë¾÷,"is_risky, age",1.952788967,0.162370506
+À¯Åë¾÷,"is_risky, sum_purchase_invoice",1.707399133,0.191404466
+À¯Åë¾÷,"is_risky, business_square_size",1.56432405,0.211112388
+À¯Åë¾÷,"is_risky, rental_deposit",1.1727927,0.278898803
+À¯Åë¾÷,"is_risky, regular_employees_count",1.019976235,0.312590775
+À¯Åë¾÷,"is_risky, duration",0.056474502,0.812170669
+À¯Åë¾÷,"is_risky, sum_new_customer_cnt",0.049307114,0.824285631
+À¯Åë¾÷,"is_risky, is_franchise",0.045431316,0.831224661
+,,,
+,,,
+,,,
+¿Ü½Ä¾÷,"is_risky, age",54.14065457,0.00E+00
+¿Ü½Ä¾÷,"is_risky, sum_sales_card",1028.274264,1.02E-221
+¿Ü½Ä¾÷,"is_risky, sum_weekend_sales_card",678.7666117,6.43E-148
+¿Ü½Ä¾÷,"is_risky, sum_new_customer_cnt",382.5344435,1.28E-84
+¿Ü½Ä¾÷,"is_risky, sum_customer_cnt",110.3071787,9.37E-26
+¿Ü½Ä¾÷,"is_risky, regular_employees_count",74.8250511,5.41E-18
+¿Ü½Ä¾÷,"is_risky, sum_weekend_sales_delivery",3.78E+01,8.00E-10
+¿Ü½Ä¾÷,"is_risky, sum_sales_delivery",3.74E+01,1.00E-09
+¿Ü½Ä¾÷,"is_risky, sum_purchase_card",34.41971793,4.50E-09
+¿Ü½Ä¾÷,"is_risky, business_square_size",24.08559667,9.27E-07
+¿Ü½Ä¾÷,"is_risky, sum_purchase_invoice",18.24116171,0.000019525
+¿Ü½Ä¾÷,"is_risky, duration",15.66001846,7.59916E-05
+¿Ü½Ä¾÷,"(is_risky, sum_sales_invoice",0.800669179,0.370900848
+¿Ü½Ä¾÷,"is_risky, is_franchise",0.70501225,0.401111582
+¿Ü½Ä¾÷,"is_risky, rental_deposit",0.474719405,0.490829545
+¿Ü½Ä¾÷,"is_risky, sum_purchase_cash",0.114113517,0.735511155
+¿Ü½Ä¾÷,"is_risky, monthly_rental_fee",0.005253201,0.942221246
+¿Ü½Ä¾÷,"is_risky, sum_sales_delivery",,
+,,,
+,,,
+,,,
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_sales_card",492.2096632,8.00E-107
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_weekend_sales_card",401.0468521,1.01E-87
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_new_customer_cnt",268.3988267,1.26E-59
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_customer_cnt",221.2018622,1.47E-49
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, regular_employees_count",38.19352126,7.00E-10
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_sales_delivery",27.29670851,1.78E-07
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_weekend_sales_delivery",26.0472434,3.39E-07
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, monthly_rental_fee",9.157689158,0.002482221
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, age",8.003858088,0.004675848
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, business_square_size",6.494638695,0.010832894
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_purchase_cash",3.203775219,0.073494761
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_sales_invoice",2.338615698,0.126229124
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, duration",2.109519874,0.146412484
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, rental_deposit",0.667617294,0.413900465
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, is_franchise",0.481302246,0.487847037
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_purchase_invoice",0.182004064,0.669664581
+Å¬·¯½ºÅÍ0(ÀüÃ¼),"is_risky, sum_purchase_card",0.06801594,0.794252443
+,,,
+,,,
+,,,
+,,,
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_sales_card",49.17076913,0
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_weekend_sales_card",41.75307827,1.00E-10
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, regular_employees_count",22.42268324,2.3804E-06
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, age",19.04230184,1.35986E-05
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, duration",17.23049401,3.48411E-05
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_sales_invoice",12.16807308,0.000499233
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_customer_cnt",9.866729029,0.001714895
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_new_customer_cnt",7.092461111,0.007821401
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, monthly_rental_fee",3.741910594,0.053238869
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, rental_deposit",3.555765608,0.059518936
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, business_square_size",3.062344448,0.080316597
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_purchase_card",2.859602233,0.091023622
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, is_franchise",2.625352077,0.105365127
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_purchase_cash",1.711178266,0.191019413
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_purchase_invoice",0.372716811,0.541613306
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_weekend_sales_delivery",8.42E-08,0.999768495
+Å¬·¯½ºÅÍ0(¼­ºñ½º¾÷),"is_risky, sum_sales_delivery",3.42E-08,0.999852365
+,,,
+,,,
+,,,
+,,,
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_sales_card",6.098243417,0.013687291
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_weekend_sales_delivery",5.440810684,0.019856752
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_weekend_sales_card",5.430724304,0.019971157
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_sales_delivery",5.267814993,0.021916609
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_customer_cnt",5.058056534,0.024731097
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_new_customer_cnt",4.662992659,0.031059264
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_purchase_cash",1.863056657,0.172560172
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_purchase_invoice",1.279907394,0.25817046
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, rental_deposit",0.91976502,0.337753938
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, duration",0.49910432,0.480048177
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, business_square_size",0.432019196,0.511141572
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, monthly_rental_fee",0.368273018,0.544076232
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, age",0.123993793,0.724812162
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_sales_invoice",0.105098847,0.745858092
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, regular_employees_count",0.085114474,0.770539189
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, sum_purchase_card",0.000305915,0.98604864
+Å¬·¯½ºÅÍ0(À¯Åë¾÷),"is_risky, is_franchise",5.24E-07,0.99942261
+,,,
+,,,
+,,,
+,,,
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_sales_card",346.2789315,7.62E-76
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_weekend_sales_card",270.4031896,7.15E-60
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_new_customer_cnt",166.9230411,7.80E-38
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_customer_cnt",125.2981584,6.93E-29
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, rental_deposit",40.33442421,2.00E-10
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, regular_employees_count",25.81412349,3.84E-07
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, monthly_rental_fee",18.49315251,1.72348E-05
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_purchase_invoice",15.60245419,7.87606E-05
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_sales_delivery",7.431522932,0.006421742
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_purchase_card",7.186642273,0.007358463
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_weekend_sales_delivery",6.923530836,0.008521657
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, business_square_size",6.589278101,0.01027579
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_sales_invoice",3.094075697,0.078612373
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, is_franchise",1.906814612,0.16735245
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, age",1.619255645,0.203229092
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, duration",0.573681138,0.448820024
+Å¬·¯½ºÅÍ0(¿Ü½Ä¾÷),"is_risky, sum_purchase_cash",0.230290941,0.631320062
+,,,
+,,,
+,,,
+,,,
+,,,
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_weekend_sales_card",178.2991887,4.16E-40
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_sales_card",173.5826852,4.17E-39
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_new_customer_cnt",171.8097109,1.03E-38
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_customer_cnt",34.73645715,4.00E-09
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_sales_delivery",19.32249394,1.12275E-05
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_weekend_sales_delivery",18.37198523,1.84515E-05
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, is_franchise",16.59962924,4.67469E-05
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, duration",13.24510939,0.000275558
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_purchase_card",12.18632206,0.000484827
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_purchase_invoice",9.75004883,0.00180159
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, age",9.368913161,0.002216584
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_purchase_cash",4.881606455,0.027181445
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, sum_sales_invoice",1.32219236,0.250244151
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, business_square_size",0.541634693,0.461784408
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, regular_employees_count",0.456007571,0.499521442
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, rental_deposit",0.237579952,0.625977047
+Å¬·¯½ºÅÍ1(ÀüÃ¼),"is_risky, monthly_rental_fee",0.007662832,0.930247078
+,,,
+,,,
+,,,
+,,,
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_weekend_sales_card",8.155963603,0.004410756
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_new_customer_cnt",7.727646924,0.005575299
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, is_franchise",3.294613765,0.069907282
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_sales_card",3.151604348,0.076258373
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_purchase_card",2.668231828,0.102789946
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_customer_cnt",2.282562212,0.131259588
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_purchase_invoice",1.566687336,0.211079502
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, regular_employees_count",1.106055193,0.293280252
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_sales_invoice",0.793752948,0.373253818
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, rental_deposit",0.133698436,0.714731017
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, monthly_rental_fee",0.103361578,0.747922
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_purchase_cash",0.082945546,0.773424358
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, duration",0.06489172,0.798994979
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, business_square_size",0.063192108,0.801588968
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, age",2.0074E-06,0.998869922
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_sales_delivery",6.15E-07,0.999374623
+Å¬·¯½ºÅÍ1(¼­ºñ½º¾÷),"is_risky, sum_weekend_sales_delivery",7.07E-08,0.999787914
+,,,
+,,,
+,,,
+,,,
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_sales_invoice",10.37484186,0.001321829
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, monthly_rental_fee",8.063010565,0.004616394
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_purchase_cash",5.899743824,0.015331868
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_weekend_sales_card",3.070206377,0.080069254
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, age",2.920436388,0.087798206
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_new_customer_cnt",1.690804102,0.193849124
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_purchase_invoice",0.930577342,0.334963987
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_customer_cnt",0.757613212,0.384323399
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_purchase_card",0.628254279,0.428198744
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, duration",0.609823297,0.435053292
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, rental_deposit",0.390800605,0.532032389
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, regular_employees_count",0.213495358,0.644149766
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, business_square_size",0.153834793,0.694987265
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_sales_card",0.131536501,0.716926726
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_weekend_sales_delivery",3.29E-07,0.99954265
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, sum_sales_delivery",3.04E-07,0.99956005
+Å¬·¯½ºÅÍ1(À¯Åë¾÷),"is_risky, is_franchise",,
+,,,
+,,,
+,,,
+,,,
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_sales_card",222.1277288,4.79E-49
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_weekend_sales_card",171.2896092,2.00E-38
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_new_customer_cnt",89.22038929,5.63E-21
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_purchase_invoice",23.98914145,1.0035E-06
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, regular_employees_count",21.22035157,4.2096E-06
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, age",21.09823851,4.4851E-06
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_customer_cnt",9.07856342,0.002601298
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_weekend_sales_delivery",8.07486403,0.004508977
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_sales_delivery",8.001765426,0.004694305
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_sales_invoice",2.097191034,0.147641212
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, is_franchise",1.439946093,0.230212612
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_purchase_card",0.749439594,0.386700873
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, rental_deposit",0.151244419,0.697367773
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, duration",0.101389866,0.750183171
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, business_square_size",0.049917444,0.823217352
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, sum_purchase_cash",0.041744169,0.838117651
+Å¬·¯½ºÅÍ1(¿Ü½Ä¾÷),"is_risky, monthly_rental_fee",0.013903589,0.906141588
+,,,
+,,,
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, age",45.78229608,0
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, regular_employees_count",56.46058903,0
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_sales_card",223.8110488,3.21E-50
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_new_customer_cnt",121.2840366,4.33E-28
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_customer_cnt",81.90080182,1.62E-19
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_weekend_sales_card",67.53581489,2.25E-16
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_weekend_sales_delivery",3.98E+01,3.00E-10
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_sales_delivery",35.86525645,2.20E-09
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, monthly_rental_fee",31.64956412,1.88E-08
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, business_square_size",18.37296942,1.82812E-05
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, duration",5.929585951,0.014900943
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_purchase_card",3.796928967,0.051366311
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_purchase_invoice",3.020002135,0.082264997
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, is_franchise",1.650472336,0.198915574
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, rental_deposit",0.397463504,0.528412252
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_purchase_cash",0.14577821,0.702608651
+Å¬·¯½ºÅÍ2(ÀüÃ¼),"is_risky, sum_sales_invoice",0.007737689,0.929906422
+,,,
+,,,
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, regular_employees_count",60.57037338,0
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_sales_card",372.1147872,2.10E-81
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_weekend_sales_card",145.1311452,3.45E-33
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_new_customer_cnt",105.4672024,1.29E-24
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, monthly_rental_fee",30.29115672,3.81E-08
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, age",25.66074404,4.15E-07
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, duration",24.16485275,8.99E-07
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_purchase_card",23.00756069,1.6375E-06
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_weekend_sales_delivery",22.49723661,2.1343E-06
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, business_square_size",21.36924781,3.8366E-06
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_customer_cnt",18.48205494,1.73211E-05
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_sales_delivery",17.11772513,3.54275E-05
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_purchase_invoice",12.32899554,0.00044799
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, is_franchise",3.579697655,0.058519353
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_purchase_cash",1.637349588,0.200719905
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, sum_sales_invoice",1.451254074,0.228356028
+Å¬·¯½ºÅÍ2(¿Ü½Ä¾÷),"is_risky, rental_deposit",0.321470433,0.570738338
+,,,
+,,,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, age",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, duration",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, is_franchise",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, business_square_size",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, monthly_rental_fee",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, regular_employees_count",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, rental_deposit",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_customer_cnt",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_new_customer_cnt",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_purchase_card",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_purchase_cash",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_purchase_invoice",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_sales_card",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_sales_delivery",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_sales_invoice",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_weekend_sales_card",,
+Å¬·¯½ºÅÍ2(¼­ºñ½º¾÷),"is_risky, sum_weekend_sales_delivery",,
+,,,
+,,,
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_sales_invoice",17.19007271,3.63888E-05
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_customer_cnt",13.66437366,0.000229979
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_new_customer_cnt",12.16636111,0.000506966
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_sales_card",8.736321427,0.003185058
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, regular_employees_count",5.100857304,0.024106977
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, business_square_size",4.361413834,0.036988604
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, rental_deposit",3.638962563,0.056699259
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, monthly_rental_fee",3.38695289,0.065980388
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_weekend_sales_card",1.86496461,0.172328816
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, age",1.719957103,0.189969037
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_purchase_card",1.087709688,0.2972057
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, duration",0.650931694,0.419952137
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, is_franchise",0.134045404,0.714343534
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_purchase_cash",0.044681471,0.832629521
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_purchase_invoice",0.02645123,0.870832719
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_sales_delivery",0.015081857,0.902281144
+Å¬·¯½ºÅÍ2(À¯Åë¾÷),"is_risky, sum_weekend_sales_delivery",0.008695307,0.925722823
+,,,
+,,,
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_customer_cnt",63.37600447,0
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_new_customer_cnt",208.0278086,2.02E-46
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_weekend_sales_card",192.695021,3.41E-43
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_sales_card",185.9413499,9.23E-42
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_sales_delivery",22.28689269,2.3976E-06
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_weekend_sales_delivery",21.79211559,3.0999E-06
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, duration",16.03676103,6.28218E-05
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_purchase_card",12.81464204,0.000346445
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, is_franchise",12.01201609,0.000532028
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_purchase_invoice",9.052753197,0.002633122
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, age",4.235456218,0.039628055
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_purchase_cash",3.571955116,0.058807863
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, business_square_size",2.542811166,0.110846334
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, sum_sales_invoice",1.011830318,0.314502467
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, monthly_rental_fee",0.687417077,0.407074987
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, rental_deposit",0.476022779,0.49025419
+Å¬·¯½ºÅÍ3(ÀüÃ¼),"is_risky, regular_employees_count",0.039198731,0.843061713
+,,,
+,,,
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_sales_card",229.2902469524`,1.22E-50
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_weekend_sales_card",181.3055346,1.34E-40
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_new_customer_cnt",114.9231433,1.65E-26
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, regular_employees_count",42.00733888,1.00E-10
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_customer_cnt",31.85535426,1.76E-08
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_purchase_invoice",24.09445926,9.47E-07
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, age",14.20320006,0.000166046
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_weekend_sales_delivery",10.21742125,0.001400159
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_sales_delivery",9.763437909,0.001790707
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_sales_invoice",2.095701889,0.147778697
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_purchase_card",1.346022311,0.246031991
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, duration",0.43880542,0.507731166
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, rental_deposit",0.405227686,0.524431872
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, is_franchise",0.372152104,0.541862187
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, sum_purchase_cash",0.118166615,0.731046461
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, monthly_rental_fee",0.083595387,0.772495312
+Å¬·¯½ºÅÍ3(¿Ü½Ä¾÷),"is_risky, business_square_size",0.052718378,0.818408566
+,,,
+,,,
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_new_customer_cnt",9.544308456,0.002069531
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_weekend_sales_card",8.918195663,0.002902328
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_sales_invoice",5.207361734,0.022731322
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_sales_card",3.799217078,0.051596496
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, is_franchise",3.361695739,0.067069644
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_customer_cnt",2.884926762,0.089770034
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_purchase_card",2.225964241,0.136069171
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_purchase_invoice",1.017537954,0.313383226
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, duration",0.9627166,0.326775211
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, regular_employees_count",0.361168361,0.548014072
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, rental_deposit",0.254687557,0.613920952
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, age",0.253909405,0.614462831
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, business_square_size",0.1232766,0.725592283
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, monthly_rental_fee",0.094778576,0.758261314
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_purchase_cash",1.70737E-05,0.996704068
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_weekend_sales_delivery",2.66E-07,0.999588776
+Å¬·¯½ºÅÍ3(¼­ºñ½º¾÷),"is_risky, sum_sales_delivery",-3.71E-07,1
+,,,
+,,,
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_sales_invoice",9.489681704,0.002142717
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_purchase_cash",7.473288457,0.006411531
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, monthly_rental_fee",6.483284374,0.011090643
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_weekend_sales_card",2.485234993,0.115345986
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, age",1.66015983,0.197983898
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_new_customer_cnt",0.957478032,0.328165058
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_purchase_card",0.748376242,0.387270783
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_purchase_invoice",0.458118297,0.498715935
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_sales_card",0.40540955,0.524505322
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, business_square_size",0.361921986,0.547624752
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_customer_cnt",0.318139237,0.572910797
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, rental_deposit",0.246584279,0.619637803
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, regular_employees_count",0.061214605,0.804655034
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, duration",0.001716413,0.966964565
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_sales_delivery",1.06E-07,0.999740267
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, sum_weekend_sales_delivery",-2.07E-07,1
+Å¬·¯½ºÅÍ3(À¯Åë¾÷),"is_risky, is_franchise",,
