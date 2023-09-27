@@ -1,0 +1,282 @@
+library(betareg)
+library(caret)
+
+credit1 <- read.csv('CREDIT_CLASS_1_CLUSTER.csv')
+
+colnames(credit1)
+
+par(mfrow = c(3, 2))
+hist(x=credit1$average.age)
+hist(x=credit1$average.duration.)
+hist(x=credit1$average.is_franchise.)
+hist(x=credit1$average.business_square_size)
+hist(x=credit1$average.monthly_rental_fee.)
+hist(x=credit1$average.regular_employees_count.)
+par(mfrow = c(3, 2))
+hist(x=credit1$average.rental_deposit.)
+hist(x=credit1$average.sum_customer_cnt.)
+hist(x=credit1$average.sum_new_customer_cnt.)
+hist(x=credit1$average.sum_purchase_card.)
+hist(x=credit1$average.sum_purchase_cash.)
+hist(x=credit1$average.sum_purchase_invoice.)
+par(mfrow = c(3, 2))
+hist(x=credit1$average.sum_sales_card.)
+hist(x=credit1$average.sum_sales_delivery.)
+hist(x=credit1$average.sum_sales_invoice.)
+hist(x=credit1$average.sum_weekend_sales_card.)
+hist(x=credit1$average.sum_weekend_sales_delivery.)
+
+credit1[credit1['average.is_risky.']==0, 'average.is_risky.'] = rep(0.000001, length(credit1[credit1['average.is_risky.']==0, 'average.is_risky.']))
+credit1[credit1['average.is_risky.']==1, 'average.is_risky.'] = rep(0.999999, length(credit1[credit1['average.is_risky.']==1, 'average.is_risky.']))
+
+c0_s_ = credit1[(credit1['cluster']==0) & (credit1['class_1_name']=='서비스업'),]
+c0_s_sub = c0_s_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler <- preProcess(c0_s_sub, method=c('center', 'scale'))
+c0_s_s = predict(standard_scaler, c0_s_sub)
+c0_s_s['average.is_risky.'] = c0_s_$average.is_risky.
+
+c0_u_ = credit1[(credit1['cluster']==0) & (credit1['class_1_name']=='유통업'),]
+c0_u_sub = c0_u_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_u0 <- preProcess(c0_u_sub, method=c('center', 'scale'))
+c0_u_s = predict(standard_scaler_u0, c0_u_sub)
+c0_u_s['average.is_risky.'] = c0_u_$average.is_risky.
+
+c0_e_ = credit1[(credit1['cluster']==0) & (credit1['class_1_name']=='외식업'),]
+c0_e_sub = c0_e_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_e0 <- preProcess(c0_e_sub, method=c('center', 'scale'))
+c0_e_s = predict(standard_scaler_e0, c0_e_sub)
+c0_e_s['average.is_risky.'] = c0_e_$average.is_risky.
+
+model0_s_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                    + average.is_franchise. + average.business_square_size.
+                    + average.monthly_rental_fee.
+                    + average.regular_employees_count. + average.rental_deposit.
+                    + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                    + average.sum_purchase_card. + average.sum_purchase_cash.
+                    + average.sum_purchase_invoice. + average.sum_sales_card.
+                    + average.sum_sales_delivery. + average.sum_sales_invoice.
+                    + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                    , data= c0_s_s)
+
+summary(model0_s_)
+
+model0_u_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c0_u_s)
+
+summary(model0_u_)
+
+
+model0_e_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c0_e_s)
+
+summary(model0_e_)
+
+##
+
+c1_s_ = credit1[(credit1['cluster']==1) & (credit1['class_1_name']=='서비스업'),]
+c1_s_sub = c1_s_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_s1 <- preProcess(c1_s_sub, method=c('center', 'scale'))
+c1_s_s = predict(standard_scaler_s1, c1_s_sub)
+c1_s_s['average.is_risky.'] = c1_s_$average.is_risky.
+
+c1_u_ = credit1[(credit1['cluster']==1) & (credit1['class_1_name']=='유통업'),]
+c1_u_sub = c1_u_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_u1 <- preProcess(c1_u_sub, method=c('center', 'scale'))
+c1_u_s = predict(standard_scaler_u1, c1_u_sub)
+c1_u_s['average.is_risky.'] = c1_u_$average.is_risky.
+
+c1_e_ = credit1[(credit1['cluster']==1) & (credit1['class_1_name']=='외식업'),]
+c1_e_sub = c1_e_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_e1 <- preProcess(c1_e_sub, method=c('center', 'scale'))
+c1_e_s = predict(standard_scaler_e1, c1_e_sub)
+c1_e_s['average.is_risky.'] = c1_e_$average.is_risky.
+
+model1_s_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c1_s_s)
+
+summary(model1_s_)
+
+# 최적화가 안돼서 franchise 빼고 돌림
+model1_u_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c1_u_s)
+
+summary(model1_u_)
+
+model1_e_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c1_e_s)
+
+summary(model1_e_)
+
+##
+
+c2_s_ = credit1[(credit1['cluster']==2) & (credit1['class_1_name']=='서비스업'),]
+c2_s_sub = c2_s_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_s2 <- preProcess(c2_s_sub, method=c('center', 'scale'))
+c2_s_s = predict(standard_scaler_s2, c2_s_sub)
+c2_s_s['average.is_risky.'] = c2_s_$average.is_risky.
+
+c2_u_ = credit1[(credit1['cluster']==2) & (credit1['class_1_name']=='유통업'),]
+c2_u_sub = c2_u_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_u2 <- preProcess(c2_u_sub, method=c('center', 'scale'))
+c2_u_s = predict(standard_scaler_u2, c2_u_sub)
+c2_u_s['average.is_risky.'] = c2_u_$average.is_risky.
+
+c2_e_ = credit1[(credit1['cluster']==2) & (credit1['class_1_name']=='외식업'),]
+c2_e_sub = c2_e_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_e2 <- preProcess(c2_e_sub, method=c('center', 'scale'))
+c2_e_s = predict(standard_scaler_e2, c2_e_sub)
+c2_e_s['average.is_risky.'] = c2_e_$average.is_risky.
+
+model2_s_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c2_s_s)
+
+summary(model2_s_)
+
+model2_u_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c2_u_s)
+
+summary(model2_u_)
+
+plot(model2_u_$fitted.values, c2_u_s$average.is_risky., main="Predicted vs. Actual", 
+     xlab="Predicted Values", ylab="Actual Values", pch=19)
+abline(a=0, b=1, col="red") 
+
+model2_e_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c2_e_s)
+
+summary(model2_e_)
+
+##
+
+c3_s_ = credit1[(credit1['cluster']==3) & (credit1['class_1_name']=='서비스업'),]
+c3_s_sub = c3_s_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_s3 <- preProcess(c3_s_sub, method=c('center', 'scale'))
+c3_s_s = predict(standard_scaler_s3, c3_s_sub)
+c3_s_s['average.is_risky.'] = c3_s_$average.is_risky.
+
+c3_u_ = credit1[(credit1['cluster']==3) & (credit1['class_1_name']=='유통업'),]
+c3_u_sub = c3_u_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_u3 <- preProcess(c3_u_sub, method=c('center', 'scale'))
+c3_u_s = predict(standard_scaler_u3, c3_u_sub)
+c3_u_s['average.is_risky.'] = c3_u_$average.is_risky.
+
+c3_e_ = credit1[(credit1['cluster']==3) & (credit1['class_1_name']=='외식업'),]
+c3_e_sub = c3_e_[,c(5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22)] 
+
+standard_scaler_e3 <- preProcess(c3_e_sub, method=c('center', 'scale'))
+c3_e_s = predict(standard_scaler_e3, c3_e_sub)
+c3_e_s['average.is_risky.'] = c3_e_$average.is_risky.
+
+model3_s_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c3_s_s)
+
+summary(model3_s_)
+
+model3_u_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c3_u_s)
+
+summary(model3_u_)
+
+model3_e_ <- betareg(average.is_risky. ~ average.age. + average.duration.
+                     + average.is_franchise. + average.business_square_size.
+                     + average.monthly_rental_fee.
+                     + average.regular_employees_count. + average.rental_deposit.
+                     + average.sum_customer_cnt. + average.sum_new_customer_cnt.
+                     + average.sum_purchase_card. + average.sum_purchase_cash.
+                     + average.sum_purchase_invoice. + average.sum_sales_card.
+                     + average.sum_sales_delivery. + average.sum_sales_invoice.
+                     + average.sum_weekend_sales_card. + average.sum_weekend_sales_delivery.
+                     , data= c3_e_s)
+
+summary(model3_e_)
